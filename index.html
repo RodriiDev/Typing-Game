@@ -1,0 +1,55 @@
+<head>
+    <title>Typing Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <section id="game">
+            
+               <div id="div-title">
+                    <i style="vertical-align:middle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M2 6m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z" />
+                        <path d="M6 10l0 .01" />
+                        <path d="M10 10l0 .01" />
+                        <path d="M14 10l0 .01" />
+                        <path d="M18 10l0 .01" />
+                        <path d="M6 14l0 .01" />
+                        <path d="M18 14l0 .01" />
+                        <path d="M10 14l4 .01" />
+                    </svg>
+                    </i>
+                    <h1>
+                        Typing game
+                    </h1>
+                </div> 
+            <time></time>
+            <p></p>
+            <input autofocus>
+        </section>
+        <section id="results">
+            <h1>Results</h1>
+            <h2>WPM (Words per Minute)</h2>
+            <h3 id="wpm"></h3>
+
+            <h2>Accuracy</h2>
+            <h3 id="accuracy"></h3>
+
+            <h2>Correct / Incorrect</h2>
+            <h3 id="correct"></h3>
+
+            <button id="reload-button">
+                <svg xmlns="http://www.w3.org/2000/svg" class="" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M19.933 13.041a8 8 0 1 1 -9.925 -8.788c3.899 -1 7.935 1.007 9.425 4.747" />
+                    <path d="M20 4v5h-5" />
+                  </svg>
+            </button>
+
+        </section>
+    </main>
+</body>
+
+
+<script type="module" src="typing.js"></script>

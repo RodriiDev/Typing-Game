@@ -1,0 +1,12 @@
+export const words = [
+"the", "path", "to", "mountain", "is", "lined", "with", "flowers", "and", "trees", "that", "provide", "shade", "during", "the", "day", "with", "the", "sun", "shining", "through", "the", "leaves", "as", "birds", "sing", "in", "the", "fresh", "air",
+"walking", "along", "beach", "at", "sunset", "we", "watched", "the", "waves", "crash", "against", "the", "shore", "with", "seagulls", "flying", "overhead", "and", "the", "sky", "turning", "a", "brilliant", "shade", "of", "orange", "and", "pink",
+"in", "the", "middle", "of", "forest", "stood", "a", "majestic", "oak", "tree", "with", "its", "branches", "stretching", "wide", "and", "its", "leaves", "rustling", "gently", "in", "the", "breeze", "as", "the", "sun", "filtered", "through",
+"she", "sat", "by", "the", "window", "watching", "rain", "fall", "softly", "against", "the", "glass", "with", "a", "book", "in", "her", "lap", "and", "a", "cup", "of", "tea", "warming", "her", "hands", "on", "a", "cold", "afternoon",
+"the", "garden", "was", "full", "of", "blooming", "flowers", "and", "buzzing", "bees", "with", "the", "sweet", "scent", "of", "roses", "and", "lavender", "filling", "the", "air", "under", "a", "clear", "blue", "sky", "with", "puffy", "white", "clouds",
+"children", "played", "in", "the", "park", "chasing", "each", "other", "around", "playground", "while", "parents", "sat", "on", "benches", "watching", "with", "smiles", "as", "laughter", "filled", "the", "air", "and", "sun", "shone", "brightly",
+"at", "the", "edge", "of", "lake", "stood", "an", "old", "wooden", "dock", "with", "fishing", "boats", "tied", "up", "and", "children", "jumping", "into", "the", "water", "as", "their", "parents", "watched", "and", "laughed", "from", "shore",
+"the", "night", "was", "clear", "with", "a", "full", "moon", "shining", "brightly", "in", "sky", "while", "stars", "twinkled", "above", "and", "the", "sound", "of", "crickets", "filled", "the", "air", "with", "a", "soft", "and", "peaceful", "hum",
+"on", "a", "snowy", "morning", "world", "was", "covered", "in", "a", "blanket", "of", "white", "with", "snowflakes", "falling", "gently", "from", "the", "sky", "and", "children", "building", "snowmen", "while", "adults", "shoveled", "sidewalks",
+"by", "the", "fireplace", "we", "sat", "with", "hot", "chocolate", "and", "marshmallows", "toasting", "as", "the", "fire", "crackled", "and", "popped", "with", "warmth", "spreading", "through", "the", "room", "and", "snow", "falling", "outside", "the", "window"
+]
